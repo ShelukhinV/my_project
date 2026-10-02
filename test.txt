@@ -2,3 +2,5 @@
 new test file
 # не понял про последнюю строку
 updated
+# попытка сохранить изменения
+changes to be commited
